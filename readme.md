@@ -7,3 +7,7 @@ This is a sample readme file for our GitHub Example repo. We're learning Markdow
 
 ## Link Example 
 [test link ](https://www.google.com)
+
+1. Item One
+2. Item Two
+3. Item Three
