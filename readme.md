@@ -4,3 +4,6 @@ This is a sample readme file for our GitHub Example repo. We're learning Markdow
 * This is meant to be an example of testing
 * Markdown is really fast
 * Pretty cool , right?
+
+## Link Example 
+[test link ](https://www.google.com)
