@@ -19,10 +19,10 @@ Photography assistant primarily has 2 functions
 ## Contrasts and Sharpness Analysis Criteria
 
 * Contrasts
-	contrast of the images are first converted into grayscale then proceeds to calculate *Standard deviation of the pixels* to output the the contrast level in integer format
+	contrast of the images are first converted into grayscale then proceeds to calculate *Standard deviation of the pixels* to output the the contrast level in integer format, the calculation output will be used to compare the differences between images
 
 * Sharpness
-	sharpness of the images are measure by first converting to grayscale followed by calculatioin of the average gradient magnitude into integer format
+	sharpness of the images are measure by first converting to grayscale followed by calculation of the average gradient magnitude in integer format, the calculation output will be used to compare the differences between images
 
 
 ## Processes
